@@ -19,3 +19,9 @@ ads.adfox.ru               # AdFox ad platform (RU alternative to Google Ad Mana
 s.zkcdn.net               # ZergNet content recommendation widget
 sdk.fra-02.braze.eu       # Braze SDK endpoint (Frankfurt server)
 s.amazon-adsystem.com     # Amazon's primary ad delivery domain
+logs.ads.vungle.com       # Vungle ad analytics and performance tracking
+cm.g.doubleclick.net      # Google Campaign Manager (formerly DCM) tracking
+ad.leap.app              # Leap Ads monetization platform
+reqhfg-inapps.appsflyersdk.com # AppsFlyer SDK endpoint for in-app tracking
+adsassets.waze.com        # Waze navigation app advertising content
+mobile.yandexadexchange.net # Yandex's mobile ad exchange platform
