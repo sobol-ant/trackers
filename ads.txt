@@ -1,0 +1,11 @@
+ad.doubleclick.net         # Google's ad serving & tracking (DoubleClick)  
+www.googletagservices.com  # Google Tag Manager for ad scripts  
+pagead2.googlesyndication.com  # Google AdSense ad content hosting  
+googleads.g.doubleclick.net  # Google Ads click/conversion tracking  
+pagead2.googleadservices.com  # Google retargeting/personalized ads  
+s1.adform.net             # Adform's ad tracking & delivery  
+sync.teads.tv             # Teads video ad sync  
+us-u.openx.net            # OpenX programmatic ad exchange  
+cdn2.inner-active.mobi    # Fyber's mobile ad network (ex-Inneractive)  
+dsum-sec.casalemedia.com  # Index Exchange (ex-Casale Media) cookie sync  
+ib.adnxs.com              # Xandr/AppNexus programmatic ads  
