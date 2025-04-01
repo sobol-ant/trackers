@@ -11,3 +11,11 @@ dsum-sec.casalemedia.com  # Index Exchange (ex-Casale Media) cookie sync
 ib.adnxs.com              # Xandr/AppNexus programmatic ads  
 ade.googlesyndication.com  # Google Ad Exchange for ad delivery
 pubads.g.doubleclick.net   # Google Publisher Tags for ad serving
+imasdk.googleapis.com       # Google IMA SDK for video ads (used in YouTube/embedded players)
+aax-eu.amazon-adsystem.com # Amazon Associates/Affiliate ads (EU server)
+ad.adriver.ru              # AdRiver RTB platform (RU-focused ad network)
+c.amazon-adsystem.com      # Amazon Ads CDN (retargeting/native ads)
+ads.adfox.ru               # AdFox ad platform (RU alternative to Google Ad Manager)
+s.zkcdn.net               # ZergNet content recommendation widget
+sdk.fra-02.braze.eu       # Braze SDK endpoint (Frankfurt server)
+s.amazon-adsystem.com     # Amazon's primary ad delivery domain
