@@ -25,3 +25,85 @@ ad.leap.app              # Leap Ads monetization platform
 reqhfg-inapps.appsflyersdk.com # AppsFlyer SDK endpoint for in-app tracking
 adsassets.waze.com        # Waze navigation app advertising content
 mobile.yandexadexchange.net # Yandex's mobile ad exchange platform
+
+# Unity Ads services
+configv2.unityads.unity3d.com # Unity Ads configuration endpoint
+ae.iads.unity3d.com          # Unity Ads analytics engine
+cdn.iads.unity3d.com         # Unity Ads content delivery network
+gw-rv.iads.unity3d.com       # Unity Rewarded Video gateway
+httpkafka.unityads.unity3d.com # Unity Ads Kafka event streaming
+thind.unityads.unity3d.com   # Unity Ads thin client
+scar.unityads.unity3d.com    # Unity Ads SCAR (Standardized Content Ad Renderer)
+
+# AppLovin services
+t.applovin.com               # AppLovin main tracking domain
+prod-mediate-events.applovin.com # AppLovin mediation events
+d.applovin.com               # AppLovin demand platform
+img.applovin.com             # AppLovin image assets
+res1.applovin.com            # AppLovin resource server
+ms4.applovin.com             # AppLovin measurement server
+
+# Criteo services
+csm.eu.criteo.net            # Criteo EU sync manager
+ads.eu.criteo.com            # Criteo EU ad server
+imageproxy.eu.criteo.net     # Criteo EU image proxy
+static.criteo.net            # Criteo static resources
+cat.fr3.eu.criteo.com        # Criteo EU catalog service
+
+# Index Exchange
+cdn.indexww.com              # Index Exchange CDN
+js-sec.indexww.com           # Index Exchange secure JavaScript
+match.adsrvr.org             # Index Exchange user matching
+
+# Other ad networks
+config.ads.vungle.com        # Vungle ad configuration
+da.chartboost.com            # Chartboost demand API
+live.chartboost.com          # Chartboost live events
+ads.smartstream.tv           # SmartStream TV ad server
+ads.inmobi.com               # InMobi ad network
+unif-id.ssp.inmobi.com       # InMobi unified ID service
+ad.sxp.smartclip.net         # SmartClip ad platform
+
+edge.safedk.com           # SafeDK mobile SDK protection and analytics service
+cm.adsafety.net           # AdSafety brand safety and ad verification platform
+
+# Mintegral (MTG) domains
+mtg-native.mtgglobals.com              # Mintegral native ad serving
+cdn-adn-https.mtgglobals.com           # Mintegral secure ad content delivery
+vg-ali-ad-track-sdk.mtgglobals.com     # Mintegral SDK tracking (AliCloud)
+observe-tcp.mtgglobals.com             # Mintegral TCP observation
+cdn-adn-https-new.mtgglobals.com       # Mintegral new secure ad content
+hybird.mtgglobals.com                  # Mintegral hybrid ad serving
+
+# Amazon Advertising
+aax.amazon-adsystem.com                # Amazon Ad Exchange
+mads.amazon-adsystem.com               # Mobile Amazon Ad Services
+
+# Moloco
+sdkapi.dsp-api.moloco.com              # Moloco DSP API endpoint
+sdkopmetrics-eu.dsp-api.moloco.com     # Moloco EU SDK operational metrics
+noti-eu.adsmoloco.com                  # Moloco EU notifications
+
+# AppLovin
+a4.applovin.com                        # AppLovin ad server
+rt.applovin.com                        # AppLovin real-time services
+ms.applovin.com                        # AppLovin measurement server
+sts.applovin.com                       # AppLovin secure token service
+
+# Unity Mediation
+a-adq.mediation.unity3d.com            # Unity Mediation ad quality
+o-iab-imp-counters.mediation.unity3d.com  # Unity IAB impression counters
+o-adq.mediation.unity3d.com            # Unity optimized ad quality
+i-adq.mediation.unity3d.com            # Unity internal ad quality
+o-iab-notifications.mediation.unity3d.com  # Unity IAB notifications
+
+# Other Ad Networks
+cdn-lb.vungle.com                      # Vungle load-balanced CDN
+api.bidmachine.io                      # BidMachine programmatic API
+
+# Content Delivery
+webview.unityads.unity3d.com           # Unity Ads webview content
+
+# SDK Services
+configure.rayjump.com                  # Rayjump SDK configuration
+policy.rayjump.com                     # Rayjump privacy policy
