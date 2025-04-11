@@ -1,109 +1,117 @@
-ad.doubleclick.net         # Google's ad serving & tracking (DoubleClick)  
-www.googletagservices.com  # Google Tag Manager for ad scripts  
-pagead2.googlesyndication.com  # Google AdSense ad content hosting  
-googleads.g.doubleclick.net  # Google Ads click/conversion tracking  
-pagead2.googleadservices.com  # Google retargeting/personalized ads  
-s1.adform.net             # Adform's ad tracking & delivery  
-sync.teads.tv             # Teads video ad sync  
-us-u.openx.net            # OpenX programmatic ad exchange  
-cdn2.inner-active.mobi    # Fyber's mobile ad network (ex-Inneractive)  
-dsum-sec.casalemedia.com  # Index Exchange (ex-Casale Media) cookie sync  
-ib.adnxs.com              # Xandr/AppNexus programmatic ads  
-ade.googlesyndication.com  # Google Ad Exchange for ad delivery
-pubads.g.doubleclick.net   # Google Publisher Tags for ad serving
-imasdk.googleapis.com       # Google IMA SDK for video ads (used in YouTube/embedded players)
-aax-eu.amazon-adsystem.com # Amazon Associates/Affiliate ads (EU server)
-ad.adriver.ru              # AdRiver RTB platform (RU-focused ad network)
-c.amazon-adsystem.com      # Amazon Ads CDN (retargeting/native ads)
-ads.adfox.ru               # AdFox ad platform (RU alternative to Google Ad Manager)
-s.zkcdn.net               # ZergNet content recommendation widget
-sdk.fra-02.braze.eu       # Braze SDK endpoint (Frankfurt server)
-s.amazon-adsystem.com     # Amazon's primary ad delivery domain
-logs.ads.vungle.com       # Vungle ad analytics and performance tracking
-cm.g.doubleclick.net      # Google Campaign Manager (formerly DCM) tracking
-ad.leap.app              # Leap Ads monetization platform
-reqhfg-inapps.appsflyersdk.com # AppsFlyer SDK endpoint for in-app tracking
-adsassets.waze.com        # Waze navigation app advertising content
-mobile.yandexadexchange.net # Yandex's mobile ad exchange platform
-
-# Unity Ads services
-configv2.unityads.unity3d.com # Unity Ads configuration endpoint
-ae.iads.unity3d.com          # Unity Ads analytics engine
-cdn.iads.unity3d.com         # Unity Ads content delivery network
-gw-rv.iads.unity3d.com       # Unity Rewarded Video gateway
-httpkafka.unityads.unity3d.com # Unity Ads Kafka event streaming
-thind.unityads.unity3d.com   # Unity Ads thin client
-scar.unityads.unity3d.com    # Unity Ads SCAR (Standardized Content Ad Renderer)
-
-# AppLovin services
-t.applovin.com               # AppLovin main tracking domain
-prod-mediate-events.applovin.com # AppLovin mediation events
-d.applovin.com               # AppLovin demand platform
-img.applovin.com             # AppLovin image assets
-res1.applovin.com            # AppLovin resource server
-ms4.applovin.com             # AppLovin measurement server
-
-# Criteo services
-csm.eu.criteo.net            # Criteo EU sync manager
-ads.eu.criteo.com            # Criteo EU ad server
-imageproxy.eu.criteo.net     # Criteo EU image proxy
-static.criteo.net            # Criteo static resources
-cat.fr3.eu.criteo.com        # Criteo EU catalog service
-
-# Index Exchange
-cdn.indexww.com              # Index Exchange CDN
-js-sec.indexww.com           # Index Exchange secure JavaScript
-match.adsrvr.org             # Index Exchange user matching
-
-# Other ad networks
-config.ads.vungle.com        # Vungle ad configuration
-da.chartboost.com            # Chartboost demand API
-live.chartboost.com          # Chartboost live events
-ads.smartstream.tv           # SmartStream TV ad server
-ads.inmobi.com               # InMobi ad network
-unif-id.ssp.inmobi.com       # InMobi unified ID service
-ad.sxp.smartclip.net         # SmartClip ad platform
-
-edge.safedk.com           # SafeDK mobile SDK protection and analytics service
-cm.adsafety.net           # AdSafety brand safety and ad verification platform
-
-# Mintegral (MTG) domains
-mtg-native.mtgglobals.com              # Mintegral native ad serving
-cdn-adn-https.mtgglobals.com           # Mintegral secure ad content delivery
-vg-ali-ad-track-sdk.mtgglobals.com     # Mintegral SDK tracking (AliCloud)
-observe-tcp.mtgglobals.com             # Mintegral TCP observation
-cdn-adn-https-new.mtgglobals.com       # Mintegral new secure ad content
-hybird.mtgglobals.com                  # Mintegral hybrid ad serving
+# Google Ad Services
+ad.doubleclick.net                  # Google's ad serving & tracking (DoubleClick)
+cm.g.doubleclick.net                # Google Campaign Manager (formerly DCM) tracking
+googleads.g.doubleclick.net         # Google Ads click/conversion tracking
+pubads.g.doubleclick.net            # Google Publisher Tags for ad serving
+ade.googlesyndication.com           # Google Ad Exchange for ad delivery
+pagead2.googlesyndication.com       # Google AdSense ad content hosting
+pagead2.googleadservices.com        # Google retargeting/personalized ads
+www.googletagservices.com           # Google Tag Manager for ad scripts
+imasdk.googleapis.com               # Google IMA SDK for video ads (used in YouTube/embedded players)
+fundingchoicesmessages.google.com   # Google Funding Choices, manages ad consent
 
 # Amazon Advertising
-aax.amazon-adsystem.com                # Amazon Ad Exchange
-mads.amazon-adsystem.com               # Mobile Amazon Ad Services
+aax.amazon-adsystem.com             # Amazon Ad Exchange
+aax-eu.amazon-adsystem.com          # Amazon Associates/Affiliate ads (EU server)
+c.amazon-adsystem.com               # Amazon Ads CDN (retargeting/native ads)
+s.amazon-adsystem.com               # Amazon's primary ad delivery domain
+mads.amazon-adsystem.com            # Mobile Amazon Ad Services
 
-# Moloco
-sdkapi.dsp-api.moloco.com              # Moloco DSP API endpoint
-sdkopmetrics-eu.dsp-api.moloco.com     # Moloco EU SDK operational metrics
-noti-eu.adsmoloco.com                  # Moloco EU notifications
-
-# AppLovin
-a4.applovin.com                        # AppLovin ad server
-rt.applovin.com                        # AppLovin real-time services
-ms.applovin.com                        # AppLovin measurement server
-sts.applovin.com                       # AppLovin secure token service
+# Unity Ads
+configv2.unityads.unity3d.com       # Unity Ads configuration endpoint
+ae.iads.unity3d.com                 # Unity Ads analytics engine
+cdn.iads.unity3d.com                # Unity Ads content delivery network
+gw-rv.iads.unity3d.com              # Unity Rewarded Video gateway
+httpkafka.unityads.unity3d.com      # Unity Ads Kafka event streaming
+thind.unityads.unity3d.com          # Unity Ads thin client
+scar.unityads.unity3d.com           # Unity Ads SCAR (Standardized Content Ad Renderer)
+webview.unityads.unity3d.com        # Unity Ads webview content
 
 # Unity Mediation
-a-adq.mediation.unity3d.com            # Unity Mediation ad quality
-o-iab-imp-counters.mediation.unity3d.com  # Unity IAB impression counters
-o-adq.mediation.unity3d.com            # Unity optimized ad quality
-i-adq.mediation.unity3d.com            # Unity internal ad quality
-o-iab-notifications.mediation.unity3d.com  # Unity IAB notifications
+a-adq.mediation.unity3d.com         # Unity Mediation ad quality
+i-adq.mediation.unity3d.com         # Unity internal ad quality
+o-adq.mediation.unity3d.com         # Unity optimized ad quality
+o-iab-imp-counters.mediation.unity3d.com # Unity IAB impression counters
+o-iab-notifications.mediation.unity3d.com # Unity IAB notifications
+
+# AppLovin
+t.applovin.com                      # AppLovin main tracking domain
+prod-mediate-events.applovin.com    # AppLovin mediation events
+d.applovin.com                      # AppLovin demand platform
+img.applovin.com                    # AppLovin image assets
+res1.applovin.com                   # AppLovin resource server
+ms4.applovin.com                    # AppLovin measurement server
+a4.applovin.com                     # AppLovin ad server
+rt.applovin.com                     # AppLovin real-time services
+ms.applovin.com                     # AppLovin measurement server
+sts.applovin.com                    # AppLovin secure token service
+
+# Criteo
+csm.eu.criteo.net                   # Criteo EU sync manager
+ads.eu.criteo.com                   # Criteo EU ad server
+imageproxy.eu.criteo.net            # Criteo EU image proxy
+static.criteo.net                   # Criteo static resources
+cat.fr3.eu.criteo.com               # Criteo EU catalog service
+
+# Index Exchange
+dsum-sec.casalemedia.com            # Index Exchange (ex-Casale Media) cookie sync
+cdn.indexww.com                     # Index Exchange CDN
+js-sec.indexww.com                  # Index Exchange secure JavaScript
+match.adsrvr.org                    # Index Exchange user matching
+
+# Vungle
+config.ads.vungle.com               # Vungle ad configuration
+logs.ads.vungle.com                 # Vungle ad analytics and performance tracking
+cdn-lb.vungle.com                   # Vungle load-balanced CDN
+
+# Mintegral (MTG)
+mtg-native.mtgglobals.com           # Mintegral native ad serving
+cdn-adn-https.mtgglobals.com        # Mintegral secure ad content delivery
+vg-ali-ad-track-sdk.mtgglobals.com  # Mintegral SDK tracking (AliCloud)
+observe-tcp.mtgglobals.com          # Mintegral TCP observation
+cdn-adn-https-new.mtgglobals.com    # Mintegral new secure ad content
+hybird.mtgglobals.com               # Mintegral hybrid ad serving
+
+# Moloco
+sdkapi.dsp-api.moloco.com           # Moloco DSP API endpoint
+sdkopmetrics-eu.dsp-api.moloco.com  # Moloco EU SDK operational metrics
+noti-eu.adsmoloco.com               # Moloco EU notifications
+
+# InMobi
+ads.inmobi.com                      # InMobi ad network
+unif-id.ssp.inmobi.com              # InMobi unified ID service
 
 # Other Ad Networks
-cdn-lb.vungle.com                      # Vungle load-balanced CDN
-api.bidmachine.io                      # BidMachine programmatic API
+s1.adform.net                       # Adform's ad tracking & delivery
+sync.teads.tv                       # Teads video ad sync
+us-u.openx.net                      # OpenX programmatic ad exchange
+cdn2.inner-active.mobi              # Fyber's mobile ad network (ex-Inneractive)
+ib.adnxs.com                        # Xandr/AppNexus programmatic ads
+ad.adriver.ru                       # AdRiver RTB platform (RU-focused ad network)
+ads.adfox.ru                        # AdFox ad platform (RU alternative to Google Ad Manager)
+s.zkcdn.net                         # ZergNet content recommendation widget
+ad.leap.app                         # Leap Ads monetization platform
+adsassets.waze.com                  # Waze navigation app advertising content
+mobile.yandexadexchange.net         # Yandex's mobile ad exchange platform
+da.chartboost.com                   # Chartboost demand API
+live.chartboost.com                 # Chartboost live events
+ads.smartstream.tv                  # SmartStream TV ad server
+ad.sxp.smartclip.net                # SmartClip ad platform
+rtb-eu-warsaw.intent.ai             # Intent.ai, programmatic advertising platform
+rtb-eu-warsaw.intent.ai.mshome.net  # Intent.ai RTB, local network for ads
 
-# Content Delivery
-webview.unityads.unity3d.com           # Unity Ads webview content
-
-# SDK Services
-configure.rayjump.com                  # Rayjump SDK configuration
-policy.rayjump.com                     # Rayjump privacy policy
+# Analytics & Tracking
+acr.amplreq.com                     # Amplitude, analytics for ad targeting
+api.mixpanel.com                    # Mixpanel, tracks user behavior for ad campaigns
+app-measurement.com                 # Google Firebase Analytics, ad-related tracking
+census-app.scorecardresearch.com    # ScorecardResearch, audience analytics for ads
+eu1.clevertap-prod.com              # CleverTap, marketing and ad targeting platform
+reqhfg-inapps.appsflyersdk.com      # AppsFlyer SDK endpoint for in-app tracking
+zp8y0r-launches.appsflyersdk.com    # AppsFlyer, ad attribution and analytics
+trk.pinterest.com                   # Pinterest, tracks ad interactions
+# SDK & Ad Safety Services
+sdk.fra-02.braze.eu                 # Braze SDK endpoint (Frankfurt server)
+edge.safedk.com                     # SafeDK mobile SDK protection and analytics service
+cm.adsafety.net                     # AdSafety brand safety and ad verification platform
+configure.rayjump.com               # Rayjump SDK configuration
+policy.rayjump.com                  # Rayjump privacy policy
