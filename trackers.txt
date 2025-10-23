@@ -264,7 +264,6 @@ secure-dcr.imrworldwide.com
 secure-gl.imrworldwide.com
 secure.adnxs.com
 secure.insightexpressai.com
-sentry.io
 servedby.flashtalking.com
 servicebus.windows.net
 sessions.bugsnag.com
@@ -325,15 +324,9 @@ ws.tapjoyads.com
 wv.inner-active.mobi
 www.facebook.com
 www.google-analytics.com
-www.google.co.uk
-www.google.com
 www.googleadservices.com
-www.googleapis.com
 www.googletagmanager.com
 www.googletagservices.com
 www.gstatic.com
-www.instagram.com
-www.linkedin.com
-www.youtube.com
 x.bidswitch.net
 ybp.yahoo.com
